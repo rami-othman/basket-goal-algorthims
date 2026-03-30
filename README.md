@@ -53,7 +53,11 @@ python main.py
 Move all balls into baskets using valid moves while navigating obstacles.
 
 📚 Learning Outcome
+
 Search algorithms (DFS, BFS, UCS, A*)
+
 Heuristic design
+
 State-space modeling
+
 Problem-solving in AI
